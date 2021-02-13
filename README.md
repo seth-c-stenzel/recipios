@@ -1,4 +1,4 @@
-# ReciPiOS
+# ReciPi
 
 Is a piTinyCore image and application written in Python and Flask for locally storing cooking recipes on Raspberry Pis.
 
